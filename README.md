@@ -73,7 +73,3 @@ To install the DealFinder app, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please create a new issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
